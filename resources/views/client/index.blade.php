@@ -15,7 +15,7 @@
                         <div class="hero-content" data-aos="fade-up" data-aos-delay="200">
                             <div class="company-badge mb-4">
                                 <i class="bi bi-gear-fill me-2"></i>
-                                Kelola semua konten dalam satu tempat
+                                Kelola konten dalam satu tempat
                             </div>
 
                             <h1 class="mb-4">
